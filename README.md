@@ -1,2 +1,2 @@
-# EDA-Titanic
-### A start-up Explanatory Data Analysis (EDA) project for titanic dataset
+# Cleaning and EDA for Titanic
+### A start-up data cleaning and Explanatory Data Analysis (EDA) project for titanic dataset
